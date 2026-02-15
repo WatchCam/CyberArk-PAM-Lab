@@ -1,2 +1,2 @@
-# CyberArk-PAM-Lab
-Hands on CyberArk Privileged Access Management (PAM) lab with architecture, access flows, and real-world scenarios.
+# CyberArk-PAM-Enterprise Architecture and Operational Simulation Lab
+PAM lab demonstating privileged account onboarding, session management (PSM), automated password rotation (CPM), and risk mitigation in a simulated enterprise environment. This project documents architecture design, access workflows, security controls, and real-world enterprise impact aligned with Zero Trust and compliance principles.
