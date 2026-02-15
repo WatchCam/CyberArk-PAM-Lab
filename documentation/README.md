@@ -9,6 +9,12 @@ The goal is to demonstrate understanding of:
 - Centralized access control
 - Audit and monitoring capabilities
 
+## Lab Environment Note 
+
+Due to enterprise licensing requirements of CyberArk, this lab simulates real-world privileged access workflows using documented enterprise deployment architecture.
+
+All flows are based on official CyberArk architecture and operational best practices
+
 ---
 
 Environment Assumptions
